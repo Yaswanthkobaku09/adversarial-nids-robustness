@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/*.csv
+data/*.pcap
+!data/.gitkeep
+.DS_Store
